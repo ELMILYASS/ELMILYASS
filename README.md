@@ -2,11 +2,12 @@
 <h1 align="center">Hi 👋, I'm Ilyass El-Mazidi</h1>
 <h3 align="center">A passionate full stack developer and a Software engeneering student at @INPT</h3>
 
+
 - 🌱 I’m currently learning **all about software engineering**
 
 - 📫 How to reach me **ilyasselmazidi123@gmail.com**
 
--👨‍💻 You can find my personnal website <a href="https://ilyasselmazidi.web.app/" target="_blank"> here </a>.
+- 👨‍💻 You can find my personnal website <a href="https://ilyasselmazidi.web.app/" target="_blank"> here </a>.
 
 
 <p>______________________________________________________________________________________________________________________________</p>

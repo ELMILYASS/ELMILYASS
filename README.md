@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **all about software engineering**
 
-- 📫 How to reach me **ilyasselmazidi123@gmail.com**
+- 📫 How to reach me **ilyasselmazidi123@gmail.com** | **ilyasselmazidi.web.app**
 
 
 <p>______________________________________________________________________________________________________________________________</p>

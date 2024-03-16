@@ -49,8 +49,32 @@
       <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> 
 </p>
   </li>
+      <li>  
+  <h4 align="left">Blockchain/Hashgraph:</h4>
+    <p align="left">
+      <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/practicaldev/image/fetch/s--uJjgTz8I--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8k73hi03ck8mnm830xpu.png" alt="solidity" width="60" height="30"/> </a>  
+      <a href="https://hardhat.org/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/H/hardhat-logo-888739EBB4-seeklogo.com.png" alt="hardhat" width="40" height="30"/> </a> 
+      <a href="https://book.getfoundry.sh/" target="_blank" rel="noreferrer"> <img src="https://www.paradigm.xyz/static/Foundry_Ink_2-1024x516.jpg" alt="foundry" width="80" height="45"/> </a> 
+      <a href="https://thirdweb.com/" target="_blank" rel="noreferrer"> <img src="https://metana.io/wp-content/uploads/2022/09/Thirdweb.png" alt="thirdweb" width="80" height="40"/> </a>    
+      <a href="https://docs.ethers.org/v5/" target="_blank" rel="noreferrer"> <img src="https://docs.lavanet.xyz/assets/images/ethersjsbanner-d8c04d8c2e2d47f3eb2ebd5b41f4f73b.png" alt="etherjs" width="80" height="40"/> </a>   
+      <a href="https://hedera.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/3875/PNG/512/hedera_hashgraph_hbar_icon_245087.png" alt="hedera" width="40" height="40"/> </a>   
+      <a href="https://chain.link/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/63/Chainlink_%28LINK%29.png" alt="chainlink" width="80" height="40"/> </a>   
+    </p>  
+  </li>
+    <li>
+<h4 align="left">Devops:</h3>
+<p align="left">
+  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/D/docker-logo-6D6F987702-seeklogo.com.png" alt="docker" width="40" height="40"/> </a>
+     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/> </a>
+      <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png" alt="openshift" width="40" height="40"/> </a>
+  <a href="https://argoproj.github.io/cd/ " target="_blank" rel="noreferrer"> <img src="https://icon.icepanel.io/Technology/svg/Argo-CD.svg" alt="argocd" width="40" height="40"/> </a>
+   <a href="https://github.com/actions " target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="githubactions" width="40" height="40"/> </a>
+   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+    <a href="https://www.redhat.com/en/topics/devops/what-is-devsecops " target="_blank" rel="noreferrer"> <img src="https://mkt-cdn.dynatrace.com/assets/Marketing/content-images/_1920x1088_crop_center-center_100_line/devsecops-image-2000-6557ba1b00.png" alt="devsecops" width="40" height="40"/> </a>
   
-  <li>  
+</p>
+  </li>
+  <li>
 <h4 align="left">Databases:</h3>
 <p align="left">   
     <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
@@ -59,35 +83,21 @@
     <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
 </p>
   </li>
-  
- 
-  
-  <li>  
-  <h4 align="left">AI/ML:</h4>
+    <li>  
+  <h4 align="left">ML:</h4>
     <p align="left">
       <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer"> <img src="https://avatars.githubusercontent.com/u/15658638?s=200&v=4" alt="opencv" width="40" height="40"/> </a>  
-      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>    
+      <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> 
     </p>  
   </li>
-  
-  
-  
-  <li>
-<h4 align="left">Tools:</h3>
-<p align="left">
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="figma" width="40" height="40"/> </a>
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
-     <a href="https://kubernetes.io/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Kubernetes_logo_without_workmark.svg/617px-Kubernetes_logo_without_workmark.svg.png" alt="kubernetes" width="40" height="40"/> </a>
-     <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://w7.pngwing.com/pngs/627/244/png-transparent-docker-logo-logos-logos-and-brands-icon-thumbnail.png" alt="docker" width="40" height="40"/> </a>
-      <a href="https://www.redhat.com/en/technologies/cloud-computing/openshift" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/OpenShift-LogoType.svg/200px-OpenShift-LogoType.svg.png" alt="openshift" width="40" height="40"/> </a>
-</p>
-  </li>
-  <li>
+    <li>
 <h4 align="left">Others:</h3>
 <p align="left">
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg" alt="figma" width="40" height="40"/> </a>
+    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a>
     <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
+   
 </p>
   </li>
 </ul>

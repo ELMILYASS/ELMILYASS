@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Ilyass El-Mazidi</h1>
-<h3 align="center">A passionate web2/web3 developer and a Software engeneering student at @INPT</h3>
+<h3 align="center">A passionate web2/web3 developer and a Software engineering student at @INPT</h3>
 
 
 - 🌱 I’m currently learning **all about software engineering**

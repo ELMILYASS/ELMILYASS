@@ -11,6 +11,13 @@
 
 
 <p>______________________________________________________________________________________________________________________________</p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ELMILYASS&layout=donut-vertical" alt="elmazidi-ilyass" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ELMILYASS&show_icons=true&locale=en" alt="elmazidi-ilyass" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ELMILYASS&" alt="elmazidi-ilyass" /></p>
+
 <h2 align="left">Skills</h2>
 <ul>
   <li>
